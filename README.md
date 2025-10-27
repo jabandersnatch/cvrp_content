@@ -237,7 +237,7 @@ Each case folder contains a comprehensive `Readme.md` with:
 
 - Check README files in each case folder first
 - Consult `main.tex`/`main.pdf` for complete project specifications
-- Submit questions via course platform (Bloque Neón)
+- Submit questions via course platform Discord
 
 ---
 

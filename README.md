@@ -236,7 +236,6 @@ Each case folder contains a comprehensive `Readme.md` with:
 ## 📞 Support
 
 - Check README files in each case folder first
-- Review `CLAUDE.md` in parent directory for technical details
 - Consult `main.tex`/`main.pdf` for complete project specifications
 - Submit questions via course platform (Bloque Neón)
 
